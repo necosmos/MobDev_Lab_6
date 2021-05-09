@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">PMS_lab</string>
+    <string name="titleLab1">General</string>
+    <string name="titleLab2">Drawing</string>
+    <string name="titleLab3">Movies list</string>
+    <string name="diagram">Diagram</string>
+    <string name="titleLab5">Image list</string>
+    <string name="select_image">Select image</string>
+    <string name="image_1">image_1</string>
+    <string name="image_2">image_2</string>
+    <string name="image_3">image_3</string>
+    <string name="image_4">image_4</string>
+    <string name="image_5">image_5</string>
+    <string name="image_6">image_6</string>
+    <string name="image_7">image_7</string>
+    <string name="image_8">image_8</string>
+    <string name="image_9">image_9</string>
+    <string name="image_10">image_10</string>
+    <string name="add_movie">Add movie</string>
+    <string name="movies_not_found">Movies not found</string>
+    <string name="title">Title:</string>
+    <string name="year">Year:</string>
+    <string name="genre">Genre:</string>
+    <string name="director">Director:</string>
+    <string name="actors">Actors:</string>
+    <string name="country">Country:</string>
+    <string name="language">Language:</string>
+    <string name="production">Production:</string>
+    <string name="released">Released:</string>
+    <string name="runtime">Runtime:</string>
+    <string name="awards">Awards:</string>
+    <string name="rating">Rating:</string>
+    <string name="plot">Plot:</string>
+</resources>
